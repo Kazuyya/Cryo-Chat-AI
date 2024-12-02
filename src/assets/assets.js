@@ -4,8 +4,8 @@
  */
 
 import banner from './banner.jpg';
-import iconLogo from './logo-icon.svg';
-import logoLight from './logo-light.svg';
-import logoDark from './logo-dark.svg';
+import iconLogo from './logo-icon.png';
+import logoLight from './logo-light.png';
+import logoDark from './logo-dark.png';
 
 export { banner, iconLogo, logoLight, logoDark };
