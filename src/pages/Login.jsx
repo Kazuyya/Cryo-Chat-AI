@@ -114,7 +114,13 @@ const Login = () => {
                 className='link text-labelLarge inline-block ms-1 text-light-onSurface dark:text-dark-onSurface'
               >
                 Create an account
-              </Link>
+              </Link> . 
+              <a
+                href='/Guest Page/index.html'
+                className='link text-labelLarge inline-block ms-1 text-light-onSurface dark:text-dark-onSurface'
+              >
+                Guest Mode
+              </a>
             </p>
           </div>
 
