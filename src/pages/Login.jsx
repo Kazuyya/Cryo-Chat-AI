@@ -116,7 +116,7 @@ const Login = () => {
                 Create an account
               </Link> . 
               <a
-                href='../Guest Page/index.html'
+                href='https://guets-cryo-cai.vercel.app/'
                 className='link text-labelLarge inline-block ms-1 text-light-onSurface dark:text-dark-onSurface'
               >
                 Guest Mode
